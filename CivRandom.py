@@ -1,5 +1,9 @@
 import random
 
+gameType = input("What win type: 1-Dom 2-Culture 3-Science 4-Diplomatic 5-Religion?")
+
+
+
 civs = ["Teddy Roosevelt", "Saladin", "John Curtain", "Montezuma", "Pedro II",
         "Wilfrid Laurier", "Qin Shi Huang", "Poundmaker", "Wilhelmina", "Cleopatra",
         "Victoria", "Eleanor of Aquitaine (England)", "Catherine de Medici",
